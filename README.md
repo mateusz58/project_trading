@@ -69,3 +69,20 @@ pip freeze > requirements.txt
 - Always activate the conda environment before working on the project
 - Keep requirements.txt updated with your dependencies
 - Follow PEP 8 style guidelines for Python code
+
+## 🌐 GitHub Repository
+This project is hosted on GitHub: [project_trading]()
+
+### Clone this repository
+```bash
+git clone .git
+cd project_trading
+conda activate newtemplate_app_env
+```
+
+### Contributing
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature-name`
+3. Make your changes and commit: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin feature-name`
+5. Submit a pull request
