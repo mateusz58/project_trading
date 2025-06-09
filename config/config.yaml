@@ -1,0 +1,11 @@
+# Application Configuration
+debug: false
+log_level: INFO
+host: localhost
+port: 8000
+
+# Database
+database_url: sqlite:///data/app.db
+
+# External APIs
+# api_key: your_api_key_here
